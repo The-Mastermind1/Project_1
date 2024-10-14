@@ -45,7 +45,7 @@ int main() {
 		x1 = x0 - (fungf(x0) / dfungf(x0));
 		cout << "Iteration-" << iterations << ":\t x1 = " << std::setw(10) << x1 << " and f(x1) = " << std::setw(10) <<fungf(x1) <<" ek ="<<std::setw(10)<<x1-xstar << '\n';
 		iterations++;
-		if (iterations > 12) {
+		if (iterations > max_iterations) {
 			cout << "failed to find the root" << '\n';
 			std::exit(EXIT_FAILURE);
 		}
