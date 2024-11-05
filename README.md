@@ -1,2 +1,2 @@
 # Project_1
-ΑΥΤΟ ΤΟ PROJECT ΧΡΗΣΙΜΟΠΟΙΕΙ ΤΗΝ ΜΕΘΟΔΟ ΣΤΑΘΕΡΟΥ ΣΗΜΕΙΟΥ ΚΑΙ ΤΗΝ ΜΕΘΟΔΟ ΤΟΥ ΝΕΥΤΩΝΑ ΓΙΑ ΝΑ ΠΡΟΣΕΓΓΙΣΕΙ ΤΗΝ ΛΥΣΗ ΤΗΣ ΕΞΙΣΩΣΗ F(X)=X^3-X^2-2*X-6.993 ΓΙΑ ΤΟ ΔΙΑΣΤΗΜΑ [1.5,3.5] ΚΑΙ ΕΙΚΑΣΙΑ Χ0=1.5 ΚΑΙ ΠΛΗΘΟΣ ΕΠΑΝΑΛΗΨΕΩΝ 12 ΚΑΙ  ΜΕ TOLERANCE 0.00000001. ΤΑ ΣΗΜΑΝΤΙΚΑ ΕΙΝΑΙ ΤΟ Header.h KAI Source.CPP
+THIS  PROJECT USES THE FIXED POINT ITERATION METHOD AND  THE NEWTONS METHOD IN ORDER TO APPROACH THE SOLUTION OF THIS FUNCTION : F(X)=X^3-X^2-2*X-6.993 IN THE INTERVAL [A,B] WITH  MAXIMUM NUMBER OF ITERATIONS=12 . THE CODE IS IN THE   Header.h AND Source.CPP
